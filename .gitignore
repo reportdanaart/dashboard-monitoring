@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.env.*
+
+# Streamlit and local state
+monitoring.db
+.ngrok/
+
+# Workspace / editor
+.vscode/
+
+# Data files
+Master Teknisi.xlsx

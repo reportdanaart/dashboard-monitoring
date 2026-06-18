@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly-express
+folium
+streamlit-folium
+geopy
+openpyxl
+streamlit-autorefresh
